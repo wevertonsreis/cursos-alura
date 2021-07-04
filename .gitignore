@@ -7,7 +7,7 @@
 
 # dependencies
 /node_modules
-docker-criando-containers-sem-dor-de-cabeca/volume-exemplo/node_modules
+docker-criando-containers-sem-dor-de-cabeca/3-usando-volumes/volume-exemplo/node_modules
 
 # IDEs and editors
 /.idea
